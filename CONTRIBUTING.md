@@ -1,7 +1,7 @@
 # Contributing to MosqAI Shield
 
 The full workflow is in
-[mosqai-docs/workflow.md](https://github.com/MosqAI-Shield/mosqai-docs/blob/develop/workflow.md).
+[mosqai-docs/workflow.md](https://github.com/MosqAI/mosqai-docs/blob/develop/workflow.md).
 Short version:
 
 1. Pick an issue from the board and assign yourself.

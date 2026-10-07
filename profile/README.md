@@ -4,4 +4,4 @@ Intelligent indoor mosquito attraction and capture: an ESP32-CAM device, a NestJ
 backend, an AI detection service, a mobile app for owners, and a web dashboard
 for health authorities.
 
-Start at [mosqai-docs](https://github.com/MosqAI-Shield/mosqai-docs).
+Start at [mosqai-docs](https://github.com/MosqAI/mosqai-docs).
