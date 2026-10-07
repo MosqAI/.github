@@ -1,0 +1,21 @@
+name: Bug
+description: Something behaves incorrectly
+labels: ["type:bug"]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened vs. what was expected
+    validations:
+      required: true
+  - type: textarea
+    id: repro
+    attributes:
+      label: Steps to reproduce
+    validations:
+      required: true
+  - type: input
+    id: where
+    attributes:
+      label: Component / version
+      placeholder: "backend develop@abc123, firmware 0.1.0, device MSQ-000001"
